@@ -1,0 +1,14 @@
+var city1 = {
+"name": "ГородN",
+"population": 10000000
+};
+var city2 = {
+"name": "ГородM",
+"population": 1e6
+};
+function getName1(city1) {
+return city1."name";
+}
+function getName2(city2) {
+return city2."name";
+}

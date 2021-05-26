@@ -1,0 +1,4 @@
+var city1 = {
+"name": "ГородN",
+"population": 10000000
+};
